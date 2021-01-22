@@ -1,0 +1,32 @@
+{
+    "user1": {
+        "username": "user1",
+        "password": "password1",
+        "created": "2018-07-07 00:16:28.293901"
+    },
+    "user2": {
+        "username": "user2",
+        "password": "password2",
+        "created": "2018-07-07 00:28:07.315781"
+    },
+    "u1": {
+        "username": "u1",
+        "password": "p1",
+        "created": "2020-09-26-23-42-58"
+    },
+    "u2": {
+        "username": "u2",
+        "password": "p2",
+        "created": "2020-09-26-23-55-06"
+    },
+    "": {
+        "username": "",
+        "password": "",
+        "created": "2020-09-27-00-09-44"
+    },
+    "milton": {
+        "username": "milton",
+        "password": "milton",
+        "created": "2020-09-27-00-22-18"
+    }
+}
